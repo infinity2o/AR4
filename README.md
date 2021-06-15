@@ -1,12 +1,12 @@
 # AR4
 
 ## Why 
-A public repo the AR 2&3 community can use to build AR4
+A public repo the AR 2&3 community can use to build AR4.
 
-Some additional requested features we can decide together to work on. 
-
+## How
 If you have a requested feature feel free to create an github issue in this repo. 
 
+## What
 Proposed by Kstan Simit 3/12 + 2021 + ~13.8B
 
 - Use non-contact limit switch to avoid robot arm fall and damage the limit switch
